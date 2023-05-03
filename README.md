@@ -3,4 +3,6 @@
 
 [设计模式总结之设计原则](https://www.wangguangwu.com/archives/design-principles)
 
+[设计模式简介](https://www.wangguangwu.com/archives/design-patterns-introduction)
+
 1. [创建者模式：单例模式](https://www.wangguangwu.com/archives/singleton-pattern)
