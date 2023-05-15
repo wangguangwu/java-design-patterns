@@ -6,3 +6,4 @@
 [设计模式简介](https://www.wangguangwu.com/archives/design-patterns-introduction)
 
 1. [创建者模式：单例模式](https://www.wangguangwu.com/archives/singleton-pattern)
+2. [创建者模式：工厂方法模式](https://www.wangguangwu.com/archives/factory-pattern)
