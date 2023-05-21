@@ -16,6 +16,7 @@
         <module>abstract-factory-pattern</module>
         <module>builder-pattern</module>
         <module>prototype-pattern</module>
+        <module>adapter-pattern</module>
     </modules>
 
     <properties>
