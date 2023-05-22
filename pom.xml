@@ -17,6 +17,7 @@
         <module>builder-pattern</module>
         <module>prototype-pattern</module>
         <module>adapter-pattern</module>
+        <module>bridge-pattern</module>
     </modules>
 
     <properties>
