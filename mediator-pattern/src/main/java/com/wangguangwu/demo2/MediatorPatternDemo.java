@@ -12,10 +12,10 @@ public class MediatorPatternDemo {
     public static void main(String[] args) {
         ControlTower controlTower = new ControlTower();
 
-        Aircraft airplane1 = new Airplane(controlTower, "AP101");
+        Aircraft airplane1 = new Airplane("AP101");
         controlTower.registerAircraft(airplane1);
 
-        Aircraft airplane2 = new Airplane(controlTower, "AP102");
+        Aircraft airplane2 = new Airplane("AP102");
 
         controlTower.requestToLand(airplane1);
         controlTower.requestToLand(airplane2);
