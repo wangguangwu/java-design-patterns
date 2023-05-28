@@ -7,10 +7,10 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>iterator-pattern</artifactId>
+    <artifactId>mediator-pattern</artifactId>
     <packaging>jar</packaging>
 
-    <name>iterator-pattern</name>
+    <name>mediator-pattern</name>
     <url>http://maven.apache.org</url>
 
     <properties>
