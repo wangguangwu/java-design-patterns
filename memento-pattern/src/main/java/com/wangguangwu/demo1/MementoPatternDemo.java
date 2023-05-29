@@ -1,7 +1,7 @@
 package com.wangguangwu.demo1;
 
-import com.wangguangwu.demo1.memento.CareTaker;
-import com.wangguangwu.demo1.memento.Originator;
+import com.wangguangwu.demo1.caretaker.CareTaker;
+import com.wangguangwu.demo1.product.Originator;
 
 /**
  * @author wangguangwu

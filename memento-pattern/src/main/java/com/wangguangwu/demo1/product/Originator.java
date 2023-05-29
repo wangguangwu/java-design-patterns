@@ -1,4 +1,6 @@
-package com.wangguangwu.demo1.memento;
+package com.wangguangwu.demo1.product;
+
+import com.wangguangwu.demo1.memento.Memento;
 
 /**
  * @author wangguangwu

@@ -1,4 +1,6 @@
-package com.wangguangwu.demo1.memento;
+package com.wangguangwu.demo1.caretaker;
+
+import com.wangguangwu.demo1.memento.Memento;
 
 import java.util.LinkedList;
 import java.util.List;
