@@ -1,10 +1,6 @@
 package com.wangguangwu;
 
 /**
- * @author wangguangwu
- */
-
-/**
  * 懒汉式
  * <p>
  * 线程安全
