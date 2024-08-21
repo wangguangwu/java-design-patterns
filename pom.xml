@@ -11,6 +11,7 @@
     <name>java-design-patterns</name>
 
     <modules>
+        <module>factory-pattern</module>
         <module>singleton-pattern</module>
         <module>factory-pattern</module>
         <module>abstract-factory-pattern</module>
