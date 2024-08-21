@@ -1,9 +1,7 @@
 # java-design-patterns
+
 使用 Java 实现 23 种设计模式
 
-[设计模式总结之设计原则](https://www.wangguangwu.com/archives/design-principles)
+[设计模式简介](https://www.wangguangwu.com/archives/3ba2b6a9-abcf-4a11-8d9b-7e2a8eb6a67c)
 
-[设计模式简介](https://www.wangguangwu.com/archives/design-patterns-introduction)
-
-1. [创建者模式：单例模式](https://www.wangguangwu.com/archives/singleton-pattern)
-2. [创建者模式：工厂方法模式](https://www.wangguangwu.com/archives/factory-pattern)
+[SOLID 原则](https://www.wangguangwu.com/archives/0fa312bc-e5a4-4df7-9b4a-82b655b8d78c)
