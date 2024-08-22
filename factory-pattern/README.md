@@ -1,6 +1,6 @@
 ### 项目地址
 
-[创建者模式-工厂方法](https://github.com/wangguangwu/java-design-patterns/tree/main/factory-pattern)
+[创建型模式-工厂方法](https://github.com/wangguangwu/java-design-patterns/tree/main/factory-pattern)
 
 # 1. 简介
 
