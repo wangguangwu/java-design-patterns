@@ -14,11 +14,13 @@ public class Director {
         this.builder = builder;
     }
 
-    public Car createSuv() {
-        return builder.setEngine("byd").setWheels(4).setColor("black").build();
-    }
-
-    public Car createSportCar() {
-        return builder.setEngine("V8").setWheels(4).setColor("Red").build();
+    public void make(String type) {
+        builder.reset();
+        if ("simple".equals(type)) {
+            builder.buildStepA();
+        } else {
+            builder.buildStepB();
+            builder.buildStepZ();
+        }
     }
 }
