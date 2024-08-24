@@ -10,4 +10,5 @@
 
 - [创建型模式-工厂方法](https://www.wangguangwu.com/archives/78abd272-e910-4e75-b327-462148f58085)
 - [创建型模式-抽象工厂](https://www.wangguangwu.com/archives/5a82762e-d59b-4546-99c2-e762ed417427)
-- [创建型模式-建造者模式](https://www.wangguangwu.com/archives/b68372fa-d593-476e-ab22-d476bf796774)
+- [创建型模式-建造者](https://www.wangguangwu.com/archives/b68372fa-d593-476e-ab22-d476bf796774)
+- [创建型模式-原型](https://www.wangguangwu.com/archives/2b3ef4a7-ac89-4ef7-8b85-411ddbd2ee33)
