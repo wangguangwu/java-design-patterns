@@ -1,4 +1,4 @@
-package com.wangguangwu.product;
+package com.wangguangwu.demo1.product;
 
 /**
  * @author wangguangwu

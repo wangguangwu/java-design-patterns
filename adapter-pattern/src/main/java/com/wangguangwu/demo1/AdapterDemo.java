@@ -1,7 +1,7 @@
-package com.wangguangwu;
+package com.wangguangwu.demo1;
 
-import com.wangguangwu.product.MediaPlayer;
-import com.wangguangwu.product.impl.AudioPlayer;
+import com.wangguangwu.demo1.product.MediaPlayer;
+import com.wangguangwu.demo1.product.impl.AudioPlayer;
 
 /**
  * @author wangguangwu

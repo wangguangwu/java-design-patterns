@@ -1,6 +1,6 @@
-package com.wangguangwu.product.impl;
+package com.wangguangwu.demo1.product.impl;
 
-import com.wangguangwu.product.AdvancedMediaPlayer;
+import com.wangguangwu.demo1.product.AdvancedMediaPlayer;
 
 /**
  * @author wangguangwu

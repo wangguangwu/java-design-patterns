@@ -1,7 +1,8 @@
-package com.wangguangwu.product.impl;
+package com.wangguangwu.demo1.product.impl;
 
-import com.wangguangwu.adapter.MediaAdapter;
-import com.wangguangwu.product.MediaPlayer;
+import com.wangguangwu.demo1.adapter.MediaAdapter;
+import com.wangguangwu.demo1.constant.MediaConstants;
+import com.wangguangwu.demo1.product.MediaPlayer;
 
 /**
  * @author wangguangwu
@@ -12,10 +13,10 @@ public class AudioPlayer implements MediaPlayer {
 
     @Override
     public void play(String audioType, String fileName) {
-        if (audioType.equalsIgnoreCase("mp3")) {
+        if (MediaConstants.MP3.equalsIgnoreCase(audioType)) {
             System.out.println("Playing mp3 file. Name: " + fileName);
-        } else if (audioType.equalsIgnoreCase("vlc") ||
-                audioType.equalsIgnoreCase("mp4")) {
+        } else if (MediaConstants.VLC.equalsIgnoreCase(audioType) ||
+                MediaConstants.MP4.equalsIgnoreCase(audioType)) {
             mediaAdapter = new MediaAdapter(audioType);
             mediaAdapter.play(audioType, fileName);
         } else {
