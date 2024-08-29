@@ -21,3 +21,4 @@
 结构型模式介绍**如何将类和对象组装成较大的结构**，并同时保持结构的灵活和高效。
 
 - [结构型模式-适配器](https://www.wangguangwu.com/archives/b1a7bf14-784c-486f-9604-17961486f90d)
+- [结构型模式-桥接](https://www.wangguangwu.com/archives/0ab95258-dab9-4fb8-857d-d1fa042025e4)
