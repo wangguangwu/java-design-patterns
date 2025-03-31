@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>myIterator-pattern</artifactId>
-    <name>myIterator-pattern</name>
+    <name>Iterator-pattern</name>
     <description>行为型模式-迭代器模式</description>
 
 </project>
