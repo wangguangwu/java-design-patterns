@@ -6,7 +6,9 @@
         <artifactId>java-design-patterns</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
+
     <artifactId>structural-patterns</artifactId>
-    <name>Archetype - structural-patterns</name>
-    <url>http://maven.apache.org</url>
+    <description>结构型模式</description>
+    <packaging>pom</packaging>
+
 </project>
