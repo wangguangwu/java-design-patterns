@@ -16,5 +16,6 @@
         <module>command-pattern</module>
         <module>Iterator-pattern</module>
         <module>mediator-pattern</module>
+        <module>memento-pattern</module>
     </modules>
 </project>

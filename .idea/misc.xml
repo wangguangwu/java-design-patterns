@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/decorator-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/structural-patterns/bridge-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/structural-patterns/decorator-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral-patterns/mediator-pattern/pom.xml" />
       </list>
     </option>
   </component>
