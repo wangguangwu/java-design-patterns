@@ -3,17 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.wangguangwu</groupId>
-        <artifactId>java-design-patterns</artifactId>
+        <artifactId>creational-patterns</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>creational-patterns</artifactId>
-    <description>创建型模式</description>
-    <packaging>pom</packaging>
+    <artifactId>builder-pattern</artifactId>
 
-    <modules>
-        <module>factory-pattern</module>
-        <module>abstract-factory-pattern</module>
-        <module>builder-pattern</module>
-    </modules>
+    <name>builder-pattern</name>
+    <description>创建型模式-生成器模式</description>
+
 </project>
