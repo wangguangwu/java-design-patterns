@@ -11,4 +11,7 @@
     <description>行为型模式</description>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>chain-of-responsibility-pattern</module>
+    </modules>
 </project>
