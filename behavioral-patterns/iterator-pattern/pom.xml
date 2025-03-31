@@ -7,7 +7,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>myIterator-pattern</artifactId>
+    <artifactId>Iterator-pattern</artifactId>
     <name>Iterator-pattern</name>
     <description>行为型模式-迭代器模式</description>
 
