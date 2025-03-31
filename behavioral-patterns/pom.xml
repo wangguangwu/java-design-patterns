@@ -13,5 +13,6 @@
 
     <modules>
         <module>chain-of-responsibility-pattern</module>
+        <module>command-pattern</module>
     </modules>
 </project>
