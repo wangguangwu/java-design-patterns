@@ -1,6 +1,6 @@
 package com.wangguangwu.memento;
 
-import com.wangguangwu.memento.memento.RoleMemento;
+import com.wangguangwu.memento.memento.impl.RoleMemento;
 import com.wangguangwu.memento.manager.CareTaker;
 import com.wangguangwu.memento.product.Role;
 

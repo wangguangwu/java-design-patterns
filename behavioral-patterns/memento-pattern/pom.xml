@@ -4,11 +4,10 @@
     <parent>
         <groupId>com.wangguangwu</groupId>
         <artifactId>behavioral-patterns</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>memento-pattern</artifactId>
     <name>memento-pattern</name>
     <description>行为型模式-备忘录模式</description>
-
 </project>

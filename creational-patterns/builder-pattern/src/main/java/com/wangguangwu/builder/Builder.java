@@ -23,6 +23,7 @@ package com.wangguangwu.builder;
  * @author wangguangwu
  */
 public interface Builder {
+
     /**
      * 重置构建器状态
      */

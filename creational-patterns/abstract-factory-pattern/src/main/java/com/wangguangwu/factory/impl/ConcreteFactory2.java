@@ -14,6 +14,7 @@ import com.wangguangwu.product.impl.ConcreteProductB2;
  * @author wangguangwu
  */
 public class ConcreteFactory2 implements AbstractFactory {
+
     @Override
     public ProductA createProductA() {
         return new ConcreteProductA2();

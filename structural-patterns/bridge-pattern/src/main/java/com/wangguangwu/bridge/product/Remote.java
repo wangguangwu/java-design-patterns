@@ -9,6 +9,7 @@ package com.wangguangwu.bridge.product;
  */
 @SuppressWarnings("unused")
 public interface Remote {
+
     /**
      * 切换电源
      */

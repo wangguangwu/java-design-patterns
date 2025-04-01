@@ -8,6 +8,7 @@ package com.wangguangwu.product;
  * @author wangguangwu
  */
 public interface ProductB {
+
     /**
      * 执行产品B的操作
      */

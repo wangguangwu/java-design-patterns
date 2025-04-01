@@ -4,11 +4,10 @@
     <parent>
         <groupId>com.wangguangwu</groupId>
         <artifactId>structural-patterns</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>decorator-pattern</artifactId>
     <name>decorator-pattern</name>
     <description>结构型模式-装饰器模式</description>
-
 </project>

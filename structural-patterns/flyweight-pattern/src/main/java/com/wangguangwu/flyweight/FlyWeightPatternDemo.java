@@ -1,6 +1,7 @@
 package com.wangguangwu.flyweight;
 
-import com.wangguangwu.flyweight.product.Car;
+import com.wangguangwu.flyweight.factory.CarFactory;
+import com.wangguangwu.flyweight.flyweight.Car;
 
 /**
  * 享元模式演示类

@@ -10,6 +10,7 @@ import com.wangguangwu.strage.dto.PaymentInfo;
  * @author wangguangwu
  */
 public interface PaymentStrategy {
+
     /**
      * 支付金额
      *

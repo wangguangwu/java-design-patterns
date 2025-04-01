@@ -1,6 +1,6 @@
 package com.wangguangwu.memento.manager;
 
-import com.wangguangwu.memento.memento.RoleMemento;
+import com.wangguangwu.memento.memento.impl.RoleMemento;
 
 import java.util.ArrayList;
 import java.util.List;

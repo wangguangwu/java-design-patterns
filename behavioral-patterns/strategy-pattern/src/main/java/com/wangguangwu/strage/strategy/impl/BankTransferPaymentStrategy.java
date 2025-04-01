@@ -16,12 +16,11 @@ public class BankTransferPaymentStrategy implements PaymentStrategy {
     @Override
     public void pay(double amount) {
         System.out.printf(
-                """
-                        银行转账支付：%.2f元
-                        银行：%s
-                        账号：**** **** **** %s
-                        账户持有人：%s
-                        支付成功！%n""",
+                "银行转账支付：%.2f元%n" +
+                "银行：%s%n" +
+                "账号：**** **** **** %s%n" +
+                "账户持有人：%s%n" +
+                "支付成功！%n",
                 amount,
                 getPaymentInfo().getBank(),
                 getPaymentInfo().getAccount().substring(12),

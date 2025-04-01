@@ -1,6 +1,6 @@
 package com.wangguangwu.facade;
 
-import com.wangguangwu.facade.product.Computer;
+import com.wangguangwu.facade.subsystem.Computer;
 
 /**
  * 外观模式演示类

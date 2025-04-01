@@ -1,12 +1,30 @@
 package com.wangguangwu;
 
 import com.wangguangwu.prototype.impl.ConcretePrototype;
-import com.wangguangwu.prototype.manager.PrototypeManager;
+import com.wangguangwu.manager.PrototypeManager;
 
 /**
  * 原型模式演示类
  * <p>
- * 这个类展示了如何使用原型模式来创建和使用对象
+ * 原型模式（Prototype Pattern）是一种创建型设计模式，它允许你通过复制现有对象来创建新对象，
+ * 而不是通过常规的构造函数。这种模式特别适用于创建开销较大的对象。
+ * <p>
+ * 主要优点：
+ * 1. 创建对象的代价小
+ * 2. 支持对象的动态创建
+ * 3. 支持对象的动态配置
+ * 4. 支持对象的深拷贝
+ * <p>
+ * 主要缺点：
+ * 1. 需要实现 Cloneable 接口
+ * 2. 需要处理深拷贝问题
+ * 3. 需要维护原型管理器
+ * <p>
+ * 适用场景：
+ * 1. 创建对象的代价较大时
+ * 2. 需要动态创建对象时
+ * 3. 需要动态配置对象时
+ * 4. 需要复制对象时
  *
  * @author wangguangwu
  */

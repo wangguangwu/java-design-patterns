@@ -1,6 +1,6 @@
 package com.wangguangwu.mediator.mediator;
 
-import com.wangguangwu.mediator.compent.Aircraft;
+import com.wangguangwu.mediator.aircraft.Aircraft;
 
 /**
  * 中介者接口

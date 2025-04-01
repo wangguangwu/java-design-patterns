@@ -1,6 +1,6 @@
 package com.wangguangwu.memento.product;
 
-import com.wangguangwu.memento.memento.RoleMemento;
+import com.wangguangwu.memento.memento.impl.RoleMemento;
 
 /**
  * 角色类

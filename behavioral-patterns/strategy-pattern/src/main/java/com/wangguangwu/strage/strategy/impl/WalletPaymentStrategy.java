@@ -15,10 +15,9 @@ public class WalletPaymentStrategy implements PaymentStrategy {
     @Override
     public void pay(double amount) {
         System.out.printf(
-                """
-                        %s支付：%.2f元
-                        手机号：**** **** %s
-                        支付成功！%n""",
+                "%s支付：%.2f元%n" +
+                "手机号：**** **** %s%n" +
+                "支付成功！%n",
                 getPaymentInfo().getBank(),
                 amount,
                 getPaymentInfo().getAccount().substring(8)

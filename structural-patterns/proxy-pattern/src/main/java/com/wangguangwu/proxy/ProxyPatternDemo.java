@@ -1,7 +1,7 @@
 package com.wangguangwu.proxy;
 
-import com.wangguangwu.proxy.product.NetworkRequest;
-import com.wangguangwu.proxy.product.impl.ProxyNetworkRequest;
+import com.wangguangwu.proxy.proxy.NetworkRequest;
+import com.wangguangwu.proxy.proxy.impl.ProxyNetworkRequest;
 
 /**
  * 代理模式演示类

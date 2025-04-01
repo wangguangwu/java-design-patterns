@@ -26,6 +26,7 @@ import com.wangguangwu.product.ProductB;
  * @author wangguangwu
  */
 public interface AbstractFactory {
+
     /**
      * 创建产品A
      *

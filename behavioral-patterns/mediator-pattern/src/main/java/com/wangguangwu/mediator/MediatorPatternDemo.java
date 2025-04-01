@@ -1,8 +1,8 @@
 package com.wangguangwu.mediator;
 
-import com.wangguangwu.mediator.compent.Aircraft;
-import com.wangguangwu.mediator.compent.Airplane;
-import com.wangguangwu.mediator.mediator.ControlTower;
+import com.wangguangwu.mediator.aircraft.Aircraft;
+import com.wangguangwu.mediator.aircraft.impl.Airplane;
+import com.wangguangwu.mediator.mediator.impl.ControlTower;
 import com.wangguangwu.mediator.mediator.Mediator;
 
 /**

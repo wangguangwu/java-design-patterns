@@ -1,9 +1,9 @@
 package com.wangguangwu.decorator;
 
-import com.wangguangwu.decorator.product.condiments.AddMilk;
-import com.wangguangwu.decorator.product.condiments.AddSprinkles;
-import com.wangguangwu.decorator.product.Coffee;
-import com.wangguangwu.decorator.product.impl.SimpleCoffee;
+import com.wangguangwu.decorator.condiments.AddMilk;
+import com.wangguangwu.decorator.condiments.AddSprinkles;
+import com.wangguangwu.decorator.component.Coffee;
+import com.wangguangwu.decorator.component.impl.SimpleCoffee;
 
 /**
  * 装饰器模式演示类

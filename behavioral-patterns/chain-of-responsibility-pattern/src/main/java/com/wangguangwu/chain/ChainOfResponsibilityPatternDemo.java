@@ -1,10 +1,10 @@
 package com.wangguangwu.chain;
 
-import com.wangguangwu.chain.product.Approver;
-import com.wangguangwu.chain.product.Request;
-import com.wangguangwu.chain.product.impl.FinancialApprover;
-import com.wangguangwu.chain.product.impl.GeneralManagerApprover;
-import com.wangguangwu.chain.product.impl.ManagerApprover;
+import com.wangguangwu.chain.approver.Approver;
+import com.wangguangwu.chain.request.Request;
+import com.wangguangwu.chain.approver.impl.FinancialApprover;
+import com.wangguangwu.chain.approver.impl.GeneralManagerApprover;
+import com.wangguangwu.chain.approver.impl.ManagerApprover;
 
 /**
  * 责任链模式演示类

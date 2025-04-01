@@ -24,6 +24,10 @@ public class Leaf extends Component {
 
     @Override
     public void display(int depth) {
-        System.out.println("-".repeat(Math.max(0, depth)) + name);
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < depth; i++) {
+            sb.append("-");
+        }
+        System.out.println(sb + name);
     }
 }

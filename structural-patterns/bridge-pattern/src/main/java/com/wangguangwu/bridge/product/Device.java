@@ -8,6 +8,7 @@ package com.wangguangwu.bridge.product;
  * @author wangguangwu
  */
 public interface Device {
+
     /**
      * 检查设备是否开启
      *

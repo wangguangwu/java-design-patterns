@@ -4,12 +4,10 @@
     <parent>
         <groupId>com.wangguangwu</groupId>
         <artifactId>creational-patterns</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>factory-pattern</artifactId>
-    <packaging>jar</packaging>
-
     <name>factory-pattern</name>
     <description>创建型模式-工厂方法模式</description>
 </project>
