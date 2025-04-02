@@ -22,5 +22,6 @@
         <module>strategy-pattern</module>
         <module>template-pattern</module>
         <module>visitor-pattern</module>
+        <module>interpreter-pattern</module>
     </modules>
 </project>
